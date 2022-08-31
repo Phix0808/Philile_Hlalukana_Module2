@@ -1,0 +1,10 @@
+
+2021 MTN Business App of the Year Best Campus Cup Solution winner: UniWise
+
+UniWise is an app that summarises different university prospectuses for students. 
+Students or prospective students can simply enter their marks and start searching for any course they would like to apply for at any supported institutions.
+
+App : UniWise
+Developer : Tebogo Serogole
+Category : Best Campus Cup Solution
+Institution represented : Tshwane University of Technology
